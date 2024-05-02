@@ -1,0 +1,18 @@
+To add files to git hub
+
+git init
+git status
+git add .
+git commit -m 'msg'
+git branch -M main
+git remote add origin 'url'
+git push -u origin main
+
+
+
+If any files updated
+
+git status
+git add .
+git commit -m 'msg'
+git push
